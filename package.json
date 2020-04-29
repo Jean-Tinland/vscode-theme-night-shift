@@ -1,0 +1,21 @@
+{
+  "name": "desaturated",
+  "displayName": "Desaturated",
+  "description": "A clean desatured vscode theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Desaturated",
+        "uiTheme": "vs-dark",
+        "path": "./themes/desaturated-color-theme.json"
+      }
+    ]
+  }
+}

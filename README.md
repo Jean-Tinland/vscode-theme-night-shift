@@ -12,7 +12,7 @@ Sample 2:
 
 Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.
 
-`ext install theme-desaturated`
+`ext install jean.desaturated`
 
 Or install this theme from the extension panel : search for "_desaturated theme_".
 

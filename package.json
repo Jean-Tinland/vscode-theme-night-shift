@@ -1,31 +1,32 @@
 {
-	"name": "desaturated",
-	"displayName": "Desaturated",
-	"description": "A clean desatured vscode theme.",
-	"version": "0.0.2",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Jean-Tinland/vscode-theme-desaturated.git"
-	},
-	"publisher": "jean",
-	"engines": {
-		"vscode": "^1.44.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Desaturated",
-				"uiTheme": "vs-dark",
-				"path": "./themes/desaturated-color-theme.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "419090da-bd5c-4237-9465-51da82e87338",
-		"publisherDisplayName": "jean_tinland",
-		"publisherId": "e36910f8-07ad-4e76-bbaa-361d00b58382"
-	}
+  "name": "desaturated",
+  "displayName": "Desaturated",
+  "description": "A clean desatured vscode theme.",
+  "icon": "./assets/desaturated_logo.png",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jean-Tinland/vscode-theme-desaturated.git"
+  },
+  "publisher": "jean",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Desaturated",
+        "uiTheme": "vs-dark",
+        "path": "./themes/desaturated-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "419090da-bd5c-4237-9465-51da82e87338",
+    "publisherDisplayName": "jean_tinland",
+    "publisherId": "e36910f8-07ad-4e76-bbaa-361d00b58382"
+  }
 }

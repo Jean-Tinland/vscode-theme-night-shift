@@ -3,6 +3,7 @@
   "displayName": "Desaturated",
   "description": "A clean desatured vscode theme.",
   "version": "0.0.1",
+  "publisher": "jean_tinland",
   "engines": {
     "vscode": "^1.44.0"
   },

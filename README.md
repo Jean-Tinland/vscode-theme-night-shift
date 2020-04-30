@@ -1,13 +1,21 @@
 # README
-## This is the README for your extension "desaturated"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Preview
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Sample 1:
+<img src="./assets/preview_tsx.jpg" alt="Preview TSX" />
+
+Sample 2:
+<img src="./assets/preview_css.jpg" alt="Preview TSX" />
+
+## Installation
+
+Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.
+
+`ext install theme-desaturated`
+
+Or install this theme from the extension panel : search for "_desaturated theme_".
+
+You can find this theme in the Visual Studio Code Marketplace.
 
 **Enjoy!**

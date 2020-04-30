@@ -3,6 +3,10 @@
   "displayName": "Desaturated",
   "description": "A clean desatured vscode theme.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jean-Tinland/vscode-theme-desaturated.git"
+  },
   "publisher": "jean",
   "engines": {
     "vscode": "^1.44.0"

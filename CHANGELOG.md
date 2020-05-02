@@ -2,12 +2,17 @@
 
 All notable changes to the "desaturated" extension are documented below.
 
+## 0.0.7
+
+- Fix "no-italics" theme not showing in previous version
+- Fix logo
+
 ## 0.0.6
 
 - Minor color update
 - Add "no-italics" theme
 - Readme file update
-- Revamp temp logo
+- Revamp logo
 
 ## 0.0.5
 

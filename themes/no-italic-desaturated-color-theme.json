@@ -1,5 +1,5 @@
 {
-  "name": "Desaturated",
+  "name": "Desaturated (no italics)",
   "type": "dark",
   "colors": {
     "focusBorder": "#1A1C23",
@@ -157,8 +157,7 @@
       "name": "Comments",
       "scope": "comment",
       "settings": {
-        "foreground": "#98A8C5c4",
-        "fontStyle": "italic"
+        "foreground": "#98A8C5c4"
       }
     },
     {
@@ -210,8 +209,7 @@
       "name": "Tag attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#E78482",
-        "fontStyle": "italic"
+        "foreground": "#E78482"
       }
     },
     {
@@ -281,8 +279,7 @@
       "name": "Markup quotes",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#6DB3CEc4",
-        "fontStyle": "italic"
+        "foreground": "#6DB3CEc4"
       }
     },
     {
@@ -304,8 +301,7 @@
       "name": "Markup italics",
       "scope": "markup.italic",
       "settings": {
-        "foreground": "#20C5C6c4",
-        "fontStyle": "italic"
+        "foreground": "#20C5C6c4"
       }
     },
     {
@@ -391,16 +387,13 @@
       "name": "Language variables",
       "scope": ["variable.language"],
       "settings": {
-        "foreground": "#F0C981c4",
-        "fontStyle": "italic"
+        "foreground": "#F0C981c4"
       }
     },
     {
       "name": "Parameters",
       "scope": "variable.parameter",
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "settings": {}
     },
     {
       "name": "Embedded template punctuation",

@@ -1,6 +1,13 @@
 # Change Log
 
-All notable changes to the "desaturated" extension will be documented in this file.
+All notable changes to the "desaturated" extension are documented below.
+
+## 0.0.6
+
+- Minor color update
+- Add "no-italics" theme
+- Readme file update
+- Revamp temp logo
 
 ## 0.0.5
 

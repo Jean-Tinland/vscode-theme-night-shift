@@ -2,8 +2,8 @@
   "name": "desaturated",
   "displayName": "Desaturated Theme",
   "description": "A clean desaturated vscode theme.",
-  "icon": "assets/desaturated_logo.png",
-  "version": "0.0.5",
+  "icon": "assets/logo.png",
+  "version": "0.0.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/Jean-Tinland/vscode-theme-desaturated.git"

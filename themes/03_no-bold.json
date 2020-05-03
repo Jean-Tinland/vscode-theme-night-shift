@@ -1,5 +1,5 @@
 {
-  "name": "Desaturated (no bold)",
+  "name": "Desaturated (w/o bold)",
   "type": "dark",
   "colors": {
     "focusBorder": "#1A1C23",
@@ -130,12 +130,12 @@
     "terminal.foreground": "#D5D8DA",
     "terminal.ansiBlue": "#6DB3CE",
     "terminal.ansiBrightBlue": "#6DB3CE",
-    "terminal.ansiBrightCyan": "#49B1B1",
+    "terminal.ansiBrightCyan": "#7EDDDE",
     "terminal.ansiBrightGreen": "#8FC8BB",
     "terminal.ansiBrightMagenta": "#AD82CB",
     "terminal.ansiBrightRed": "#E78482",
     "terminal.ansiBrightYellow": "#FFD484",
-    "terminal.ansiCyan": "#49B1B1",
+    "terminal.ansiCyan": "#7EDDDE",
     "terminal.ansiGreen": "#8FC8BB",
     "terminal.ansiMagenta": "#AD82CB",
     "terminal.ansiRed": "#E78482",
@@ -186,14 +186,14 @@
       "name": "Function names",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#fff9eec7"
+        "foreground": "#FFD484c7"
       }
     },
     {
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#49B1B1c4"
+        "foreground": "#7EDDDEc4"
       }
     },
     {
@@ -236,7 +236,7 @@
       "name": "Variable names",
       "scope": ["entity.name.variable", "variable"],
       "settings": {
-        "foreground": "#FFD484c4"
+        "foreground": "#fff9eec4"
       }
     },
     {
@@ -298,7 +298,7 @@
       "name": "Markup italics",
       "scope": "markup.italic",
       "settings": {
-        "foreground": "#49B1B1c4",
+        "foreground": "#7EDDDEc4",
         "fontStyle": "italic"
       }
     },

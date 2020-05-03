@@ -6,8 +6,9 @@ This theme's main goal is to provide a dark, readable & clean experience into yo
 
 ## Screenshots
 
-<img src="./assets/tsx_preview.png" alt=".tsx preview" />
-<img src="./assets/css_preview.png" alt=".css preview" />
+<img src="./assets/preview_1.png" alt=".tsx preview" />
+<img src="./assets/preview_2.png" alt=".tsx preview" />
+<img src="./assets/preview_3.png" alt=".css preview" />
 
 ## Colors
 
@@ -19,7 +20,7 @@ This theme's main goal is to provide a dark, readable & clean experience into yo
 | ![#FFD484](https://placehold.it/15/FFD484/000000?text=+) Yellow         | `#FFD484` | Inherited classes - CSS ID selectors - Variables names - JSON property name |
 | ![#6DB3CE](https://placehold.it/15/6DB3CE/000000?text=+) Blue           | `#6DB3CE` | Escape characters - Operators - Special operators                           |
 | ![#AD82CB](https://placehold.it/15/AD82CB/000000?text=+) Magenta        | `#AD82CB` | Constants - Pseudo CSS - Keywords                                           |
-| ![#49B1B1](https://placehold.it/15/49B1B1/000000?text=+) Cyan           | `#49B1B1` | Tags                                                                        |
+| ![#7EDDDE](https://placehold.it/15/7EDDDE/000000?text=+) Cyan           | `#7EDDDE` | Tags                                                                        |
 | ![#FFF9EE](https://placehold.it/15/FFF9EE/000000?text=+) White / yellow | `#FFF9EE` | Names entities - Function names - Storage keywords - Regex -                |
 
 ## Installation

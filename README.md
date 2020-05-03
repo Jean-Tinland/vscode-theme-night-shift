@@ -19,7 +19,7 @@ This theme's main goal is to provide a dark, readable & clean experience into yo
 | ![#F0C981](https://placehold.it/15/F0C981/000000?text=+) Yellow         | `#F0C981` | Inherited classes - CSS ID selectors - Variables names - JSON property name |
 | ![#6DB3CE](https://placehold.it/15/6DB3CE/000000?text=+) Blue           | `#6DB3CE` | Escape characters - Operators - Special operators                           |
 | ![#AD82CB](https://placehold.it/15/AD82CB/000000?text=+) Magenta        | `#AD82CB` | Constants - Pseudo CSS - Keywords                                           |
-| ![#20C5C6](https://placehold.it/15/20C5C6/000000?text=+) Cyan           | `#20C5C6` | Tags                                                                        |
+| ![#49B1B1](https://placehold.it/15/49B1B1/000000?text=+) Cyan           | `#49B1B1` | Tags                                                                        |
 | ![#FFF9EE](https://placehold.it/15/FFF9EE/000000?text=+) White / yellow | `#FFF9EE` | Names entities - Function names - Storage keywords - Regex -                |
 
 ## Installation

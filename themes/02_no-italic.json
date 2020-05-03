@@ -130,12 +130,12 @@
     "terminal.foreground": "#D5D8DA",
     "terminal.ansiBlue": "#6DB3CE",
     "terminal.ansiBrightBlue": "#6DB3CE",
-    "terminal.ansiBrightCyan": "#20C5C6",
+    "terminal.ansiBrightCyan": "#49B1B1",
     "terminal.ansiBrightGreen": "#8FC8BB",
     "terminal.ansiBrightMagenta": "#AD82CB",
     "terminal.ansiBrightRed": "#E78482",
     "terminal.ansiBrightYellow": "#f0c981",
-    "terminal.ansiCyan": "#20C5C6",
+    "terminal.ansiCyan": "#49B1B1",
     "terminal.ansiGreen": "#8FC8BB",
     "terminal.ansiMagenta": "#AD82CB",
     "terminal.ansiRed": "#E78482",
@@ -164,7 +164,8 @@
       "name": "Constants",
       "scope": "constant",
       "settings": {
-        "foreground": "#AD82CBc4"
+        "foreground": "#AD82CBc4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -185,14 +186,16 @@
       "name": "Function names",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#fff9eec7"
+        "foreground": "#fff9eec7",
+        "fontStyle": "bold"
       }
     },
     {
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#20C5C6c4"
+        "foreground": "#49B1B1c4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -248,7 +251,8 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#6DB3CEc4"
+        "foreground": "#6DB3CEc4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -260,7 +264,8 @@
         "keyword.operator.delete"
       ],
       "settings": {
-        "foreground": "#6DB3CEc4"
+        "foreground": "#6DB3CEc4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -288,14 +293,15 @@
       "name": "Markup bold",
       "scope": "markup.bold",
       "settings": {
-        "foreground": "#AD82CBc4"
+        "foreground": "#AD82CBc4",
+        "fontStyle": "bold"
       }
     },
     {
       "name": "Markup italics",
       "scope": "markup.italic",
       "settings": {
-        "foreground": "#20C5C6c4"
+        "foreground": "#49B1B1c4"
       }
     },
     {
@@ -351,14 +357,16 @@
       "name": "Provided functions",
       "scope": "support.function",
       "settings": {
-        "foreground": "#8FC8BBc4"
+        "foreground": "#8FC8BBc4",
+        "fontStyle": "bold"
       }
     },
     {
       "name": "Provided variables",
       "scope": "support.variable",
       "settings": {
-        "foreground": "#8FC8BBc4"
+        "foreground": "#8FC8BBc4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -398,7 +406,8 @@
       "name": "Tag brackets",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#98A8C5c4"
+        "foreground": "#98A8C5c4",
+        "fontStyle": "bold"
       }
     },
     {

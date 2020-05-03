@@ -23,19 +23,19 @@
         "path": "./themes/desaturated-color-theme.json"
       },
       {
-        "label": "Desaturated (no italics)",
+        "label": "Desaturated (w/o italic)",
         "uiTheme": "vs-dark",
-        "path": "./themes/no-italics-desaturated-color-theme.json"
+        "path": "./themes/no-italic-desaturated-color-theme.json"
       },
       {
-        "label": "Desaturated (no bold)",
+        "label": "Desaturated (w/o bold)",
         "uiTheme": "vs-dark",
         "path": "./themes/no-bold-desaturated-color-theme.json"
       },
       {
-        "label": "Desaturated (no italics, no bold)",
+        "label": "Desaturated (w/o italic & bold)",
         "uiTheme": "vs-dark",
-        "path": "./themes/no-italics-no-bold-desaturated-color-theme.json"
+        "path": "./themes/no-italic-no-bold-desaturated-color-theme.json"
       }
     ]
   },

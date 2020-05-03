@@ -164,8 +164,7 @@
       "name": "Constants",
       "scope": "constant",
       "settings": {
-        "foreground": "#AD82CBc4",
-        "fontStyle": "bold"
+        "foreground": "#AD82CBc4"
       }
     },
     {
@@ -186,16 +185,14 @@
       "name": "Function names",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#fff9eec7",
-        "fontStyle": "bold"
+        "foreground": "#fff9eec7"
       }
     },
     {
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#20C5C6c4",
-        "fontStyle": "bold"
+        "foreground": "#20C5C6c4"
       }
     },
     {
@@ -251,8 +248,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#6DB3CEc4",
-        "fontStyle": "bold"
+        "foreground": "#6DB3CEc4"
       }
     },
     {
@@ -264,8 +260,7 @@
         "keyword.operator.delete"
       ],
       "settings": {
-        "foreground": "#6DB3CEc4",
-        "fontStyle": "bold"
+        "foreground": "#6DB3CEc4"
       }
     },
     {
@@ -293,8 +288,7 @@
       "name": "Markup bold",
       "scope": "markup.bold",
       "settings": {
-        "foreground": "#AD82CBc4",
-        "fontStyle": "bold"
+        "foreground": "#AD82CBc4"
       }
     },
     {
@@ -357,16 +351,14 @@
       "name": "Provided functions",
       "scope": "support.function",
       "settings": {
-        "foreground": "#8FC8BBc4",
-        "fontStyle": "bold"
+        "foreground": "#8FC8BBc4"
       }
     },
     {
       "name": "Provided variables",
       "scope": "support.variable",
       "settings": {
-        "foreground": "#8FC8BBc4",
-        "fontStyle": "bold"
+        "foreground": "#8FC8BBc4"
       }
     },
     {
@@ -406,8 +398,7 @@
       "name": "Tag brackets",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#98A8C5c4",
-        "fontStyle": "bold"
+        "foreground": "#98A8C5c4"
       }
     },
     {

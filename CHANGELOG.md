@@ -2,6 +2,11 @@
 
 All notable changes to the "desaturated" extension are documented below.
 
+## 0.0.8
+
+- Add several theme variants ("no bold" & "no italics + no bold")
+- Improve readme file
+
 ## 0.0.7
 
 - Fix "no-italics" theme not showing in previous version

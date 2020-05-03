@@ -1,4 +1,4 @@
-# README
+# Desaturated Theme
 
 ## Introduction
 

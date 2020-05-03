@@ -209,7 +209,7 @@
       "name": "Tag attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#E78482"
+        "foreground": "#E78482c4"
       }
     },
     {

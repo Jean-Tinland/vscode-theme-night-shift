@@ -2,6 +2,10 @@
 
 All notable changes to the "desaturated" extension are documented below.
 
+## 0.0.14
+
+- Decrease tag attribute color opacity
+
 ## 0.0.10 to 0.0.13
 
 - Slight color updates

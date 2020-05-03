@@ -16,7 +16,7 @@ This theme's main goal is to provide a dark, readable & clean experience into yo
 | ![#98A8C5](https://placehold.it/15/98A8C5/000000?text=+) Light blue     | `#98A8C5` | Strings - Comments - Tag brackets                                           |
 | ![#E78482](https://placehold.it/15/E78482/000000?text=+) Light red      | `#E78482` | Tag attributes - Units                                                      |
 | ![#8FC8BB](https://placehold.it/15/8FC8BB/000000?text=+) Light green    | `#8FC8BB` | Static types - Provided values, functions, variables                        |
-| ![#F0C981](https://placehold.it/15/F0C981/000000?text=+) Yellow         | `#F0C981` | Inherited classes - CSS ID selectors - Variables names - JSON property name |
+| ![#FFD484](https://placehold.it/15/FFD484/000000?text=+) Yellow         | `#FFD484` | Inherited classes - CSS ID selectors - Variables names - JSON property name |
 | ![#6DB3CE](https://placehold.it/15/6DB3CE/000000?text=+) Blue           | `#6DB3CE` | Escape characters - Operators - Special operators                           |
 | ![#AD82CB](https://placehold.it/15/AD82CB/000000?text=+) Magenta        | `#AD82CB` | Constants - Pseudo CSS - Keywords                                           |
 | ![#49B1B1](https://placehold.it/15/49B1B1/000000?text=+) Cyan           | `#49B1B1` | Tags                                                                        |
@@ -32,8 +32,10 @@ Or install this theme from the extension panel : search for "_desaturated theme_
 
 You can find this theme in the Visual Studio Code Marketplace.
 
-## Misc
+## Support
 
-Do not hesitate to contact me if you have some suggestions of improvements.
+As I work mainly with **Javascript**, **Typescript**, **HTML/CSS** & **PHP**, these are for now the only fully supported languages.
+
+Do not hesitate to contact me if you have some suggestions of improvements or language addition requests.
 
 **Enjoy!**

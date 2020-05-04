@@ -237,7 +237,8 @@
       "name": "Variable names",
       "scope": ["entity.name.variable", "variable"],
       "settings": {
-        "foreground": "#fff9eec4"
+        "foreground": "#fff9eec4",
+        "fontStyle": "bold"
       }
     },
     {

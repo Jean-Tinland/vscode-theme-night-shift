@@ -1,6 +1,9 @@
 # Change Log
 
-All notable changes to the "desaturated" extension are documented below.
+## 0.0.15
+
+- Variables names are now bold
+- Readme file update
 
 ## 0.0.14
 

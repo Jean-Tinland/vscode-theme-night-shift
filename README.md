@@ -6,22 +6,28 @@ This theme's main goal is to provide a dark, readable & clean experience into yo
 
 ## Screenshots
 
-<img src="./assets/preview_1.png" alt=".tsx preview" />
-<img src="./assets/preview_2.png" alt=".tsx preview" />
-<img src="./assets/preview_3.png" alt=".css preview" />
+![.tsx preview](./assets/preview_1.png)
+![.tsx preview](./assets/preview_2.png)
+![.css preview](./assets/preview_3.png)
+
+Font: _Hasklig_
+
+Font size: _13.5_
+
+Editor line height: _22_
 
 ## Colors
 
-| Color                                                                   | Hex Code  | Used for                                                                    |
-| ----------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------- |
-| ![#98A8C5](https://placehold.it/15/98A8C5/000000?text=+) Light blue     | `#98A8C5` | Strings - Comments - Tag brackets                                           |
-| ![#E78482](https://placehold.it/15/E78482/000000?text=+) Light red      | `#E78482` | Tag attributes - Units                                                      |
-| ![#8FC8BB](https://placehold.it/15/8FC8BB/000000?text=+) Light green    | `#8FC8BB` | Static types - Provided values, functions, variables                        |
-| ![#FFD484](https://placehold.it/15/FFD484/000000?text=+) Yellow         | `#FFD484` | Inherited classes - CSS ID selectors - Variables names - JSON property name |
-| ![#6DB3CE](https://placehold.it/15/6DB3CE/000000?text=+) Blue           | `#6DB3CE` | Escape characters - Operators - Special operators                           |
-| ![#AD82CB](https://placehold.it/15/AD82CB/000000?text=+) Magenta        | `#AD82CB` | Constants - Pseudo CSS - Keywords                                           |
-| ![#7EDDDE](https://placehold.it/15/7EDDDE/000000?text=+) Cyan           | `#7EDDDE` | Tags                                                                        |
-| ![#FFF9EE](https://placehold.it/15/FFF9EE/000000?text=+) White / yellow | `#FFF9EE` | Names entities - Function names - Storage keywords - Regex -                |
+| Color                                                                   | Hex Code  | Used for                                                                        |
+| ----------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------- |
+| ![#98A8C5](https://placehold.it/15/98A8C5/000000?text=+) Light blue     | `#98A8C5` | Strings - Comments - Tag brackets                                               |
+| ![#E78482](https://placehold.it/15/E78482/000000?text=+) Light red      | `#E78482` | Tag attributes - Units                                                          |
+| ![#8FC8BB](https://placehold.it/15/8FC8BB/000000?text=+) Light green    | `#8FC8BB` | Static types - Provided values, functions, variables                            |
+| ![#FFD484](https://placehold.it/15/FFD484/000000?text=+) Yellow         | `#FFD484` | Names entities - Function names - Storage keywords - Regex - JSON property name |
+| ![#6DB3CE](https://placehold.it/15/6DB3CE/000000?text=+) Blue           | `#6DB3CE` | Escape characters - Operators - Special operators                               |
+| ![#AD82CB](https://placehold.it/15/AD82CB/000000?text=+) Magenta        | `#AD82CB` | Constants - Pseudo CSS - Keywords                                               |
+| ![#7EDDDE](https://placehold.it/15/7EDDDE/000000?text=+) Cyan           | `#7EDDDE` | Tags                                                                            |
+| ![#FFF9EE](https://placehold.it/15/FFF9EE/000000?text=+) White / yellow | `#FFF9EE` | Inherited classes - CSS ID selectors - Variables names                          |
 
 ## Installation
 

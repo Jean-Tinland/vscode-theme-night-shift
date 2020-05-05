@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.0.16
+
+- Fix peekview background color
+- Readme file update
+
 ## 0.0.15
 
 - Variables names are now bold

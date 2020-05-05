@@ -10,11 +10,10 @@ This theme's main goal is to provide a dark, readable & clean experience into yo
 ![.tsx preview](./assets/preview_2.png)
 ![.css preview](./assets/preview_3.png)
 
-Font: _Hasklig_
-
-Font size: _13.5_
-
-Editor line height: _22_
+Font: **_Hasklig_**\
+Font size: **_13.5_**\
+Editor line height: **_22_**\
+Icon pack: **_City Lights Icon Package_**
 
 ## Colors
 

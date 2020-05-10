@@ -1,5 +1,5 @@
 {
-  "name": "Desaturated (w/o bold)",
+  "name": "Desaturated",
   "type": "dark",
   "colors": {
     "focusBorder": "#1A1C23",
@@ -149,7 +149,7 @@
     "gitDecoration.modifiedResourceForeground": "#FFD484",
     "gitDecoration.deletedResourceForeground": "#E78482",
     "gitDecoration.untrackedResourceForeground": "#AD82CB",
-    "gitDecoration.ignoredResourceForeground": "#D5D8DA4D",
+    "gitDecoration.ignoredResourceForeground": "#d5d8da1e",
     "breadcrumbPicker.background": "#232530"
   },
   "tokenColors": [
@@ -157,15 +157,15 @@
       "name": "Comments",
       "scope": "comment",
       "settings": {
-        "foreground": "#98A8C5c4",
-        "fontStyle": "italic"
+        "foreground": "#98A8C5c4"
       }
     },
     {
       "name": "Constants",
       "scope": "constant",
       "settings": {
-        "foreground": "#AD82CBc4"
+        "foreground": "#AD82CBc4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -186,14 +186,16 @@
       "name": "Function names",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#FFD484c7"
+        "foreground": "#FFD484c7",
+        "fontStyle": "bold"
       }
     },
     {
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#7EDDDEc4"
+        "foreground": "#7EDDDEc4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -207,8 +209,7 @@
       "name": "Tag attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#E78482c4",
-        "fontStyle": "italic"
+        "foreground": "#E78482c4"
       }
     },
     {
@@ -236,7 +237,8 @@
       "name": "Variable names",
       "scope": ["entity.name.variable", "variable"],
       "settings": {
-        "foreground": "#fff9eec4"
+        "foreground": "#fff9eec4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -250,7 +252,8 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#6DB3CEc4"
+        "foreground": "#6DB3CEc4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -262,7 +265,8 @@
         "keyword.operator.delete"
       ],
       "settings": {
-        "foreground": "#6DB3CEc4"
+        "foreground": "#6DB3CEc4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -276,8 +280,7 @@
       "name": "Markup quotes",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#6DB3CEc4",
-        "fontStyle": "italic"
+        "foreground": "#6DB3CEc4"
       }
     },
     {
@@ -291,15 +294,15 @@
       "name": "Markup bold",
       "scope": "markup.bold",
       "settings": {
-        "foreground": "#AD82CBc4"
+        "foreground": "#AD82CBc4",
+        "fontStyle": "bold"
       }
     },
     {
       "name": "Markup italics",
       "scope": "markup.italic",
       "settings": {
-        "foreground": "#7EDDDEc4",
-        "fontStyle": "italic"
+        "foreground": "#7EDDDEc4"
       }
     },
     {
@@ -355,14 +358,16 @@
       "name": "Provided functions",
       "scope": "support.function",
       "settings": {
-        "foreground": "#8FC8BBc4"
+        "foreground": "#8FC8BBc4",
+        "fontStyle": "bold"
       }
     },
     {
       "name": "Provieded variables",
       "scope": "support.variable",
       "settings": {
-        "foreground": "#8FC8BBc4"
+        "foreground": "#8FC8BBc4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -376,43 +381,41 @@
       "name": "CSS property names",
       "scope": "support.type.property-name.css",
       "settings": {
-        "foreground": "#BBBBBBc4"
+        "foreground": "#fff9eec4"
       }
     },
     {
       "name": "Language variables",
       "scope": ["variable.language"],
       "settings": {
-        "foreground": "#FFD484c4",
-        "fontStyle": "italic"
+        "foreground": "#FFD484c4"
       }
     },
     {
       "name": "Parameters",
       "scope": "variable.parameter",
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "settings": {}
     },
     {
       "name": "Embedded template punctuation",
       "scope": "string.template meta.embedded",
       "settings": {
-        "foreground": "#BBBBBB"
+        "foreground": "#fff9ee"
       }
     },
     {
       "name": "Tag brackets",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#98A8C5c4"
+        "foreground": "#98A8C5c4",
+        "fontStyle": "bold"
       }
     },
     {
       "name": "Key/value separators",
       "scope": "punctuation.separator",
       "settings": {
-        "foreground": "#BBBBBB"
+        "foreground": "#98A8C5"
       }
     },
     {

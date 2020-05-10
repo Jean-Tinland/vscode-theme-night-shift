@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This theme's main goal is to provide a dark, readable & clean experience into your favorite code editor.
+This theme's main goal is to provide a dark, readable & clean experience into your favorite code editor.\
 
-## Screenshots
+## Preview
 
 ![.tsx preview](./assets/preview_1.png)
 ![.tsx preview](./assets/preview_2.png)

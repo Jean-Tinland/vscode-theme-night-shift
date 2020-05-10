@@ -3,7 +3,7 @@
   "displayName": "Desaturated Theme",
   "description": "A clean desaturated vscode theme.",
   "icon": "assets/logo.png",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "repository": {
     "type": "git",
     "url": "https://github.com/Jean-Tinland/vscode-theme-desaturated.git"
@@ -20,22 +20,27 @@
       {
         "label": "Desaturated",
         "uiTheme": "vs-dark",
-        "path": "./themes/01_classic.json"
+        "path": "./themes/01_classic-color-theme.json"
       },
       {
         "label": "Desaturated (w/o italic)",
         "uiTheme": "vs-dark",
-        "path": "./themes/02_no-italic.json"
+        "path": "./themes/02_no-italic-color-theme.json"
       },
       {
         "label": "Desaturated (w/o bold)",
         "uiTheme": "vs-dark",
-        "path": "./themes/03_no-bold.json"
+        "path": "./themes/03_no-bold-color-theme.json"
       },
       {
         "label": "Desaturated (w/o italic & bold)",
         "uiTheme": "vs-dark",
-        "path": "./themes/04_no-italic-bold.json"
+        "path": "./themes/04_no-italic-bold-color-theme.json"
+      },
+      {
+        "label": "Desaturated (w/o borders)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/05_no-borders-color-theme.json"
       }
     ]
   },

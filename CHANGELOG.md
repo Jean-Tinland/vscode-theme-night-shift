@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.0.17
+
+- Add no borders (flat) theme variant
+- Slight color updates
+- Readme file update
+
 ## 0.0.16
 
 - Fix peekview background color

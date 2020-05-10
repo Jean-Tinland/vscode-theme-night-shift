@@ -1,5 +1,5 @@
 {
-  "name": "Desaturated (w/o italic & bold)",
+  "name": "Desaturated",
   "type": "dark",
   "colors": {
     "focusBorder": "#1A1C23",
@@ -149,7 +149,7 @@
     "gitDecoration.modifiedResourceForeground": "#FFD484",
     "gitDecoration.deletedResourceForeground": "#E78482",
     "gitDecoration.untrackedResourceForeground": "#AD82CB",
-    "gitDecoration.ignoredResourceForeground": "#D5D8DA4D",
+    "gitDecoration.ignoredResourceForeground": "#d5d8da1e",
     "breadcrumbPicker.background": "#232530"
   },
   "tokenColors": [
@@ -157,7 +157,8 @@
       "name": "Comments",
       "scope": "comment",
       "settings": {
-        "foreground": "#98A8C5c4"
+        "foreground": "#98A8C5c4",
+        "fontStyle": "italic"
       }
     },
     {
@@ -206,7 +207,8 @@
       "name": "Tag attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#E78482c4"
+        "foreground": "#E78482c4",
+        "fontStyle": "italic"
       }
     },
     {
@@ -274,7 +276,8 @@
       "name": "Markup quotes",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#6DB3CEc4"
+        "foreground": "#6DB3CEc4",
+        "fontStyle": "italic"
       }
     },
     {
@@ -295,7 +298,8 @@
       "name": "Markup italics",
       "scope": "markup.italic",
       "settings": {
-        "foreground": "#7EDDDEc4"
+        "foreground": "#7EDDDEc4",
+        "fontStyle": "italic"
       }
     },
     {
@@ -372,26 +376,29 @@
       "name": "CSS property names",
       "scope": "support.type.property-name.css",
       "settings": {
-        "foreground": "#BBBBBBc4"
+        "foreground": "#fff9eec4"
       }
     },
     {
       "name": "Language variables",
       "scope": ["variable.language"],
       "settings": {
-        "foreground": "#FFD484c4"
+        "foreground": "#FFD484c4",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Parameters",
       "scope": "variable.parameter",
-      "settings": {}
+      "settings": {
+        "fontStyle": "italic"
+      }
     },
     {
       "name": "Embedded template punctuation",
       "scope": "string.template meta.embedded",
       "settings": {
-        "foreground": "#BBBBBB"
+        "foreground": "#fff9ee"
       }
     },
     {
@@ -405,7 +412,7 @@
       "name": "Key/value separators",
       "scope": "punctuation.separator",
       "settings": {
-        "foreground": "#BBBBBB"
+        "foreground": "#98A8C5"
       }
     },
     {

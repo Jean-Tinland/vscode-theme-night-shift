@@ -2,17 +2,25 @@
 
 ## Introduction
 
-This theme's main goal is to provide a dark, readable & clean experience into your favorite code editor.\
+This theme's main goal is to provide a dark, readable & clean experience into your favorite code editor.
+
+There is also 4 variants included :
+
+- No bold
+- No italic
+- No italic & bold
+- Flat (no-borders)
 
 ## Preview
 
 ![.tsx preview](./assets/preview_1.png)
 ![.tsx preview](./assets/preview_2.png)
-![.css preview](./assets/preview_3.png)
+![.tsx preview](./assets/preview_3.png)
+Flat (no-borders) variant
 
-Font: **_Hasklig_**\
-Font size: **_13.5_**\
-Editor line height: **_22_**\
+Font: **_JetBrains Mono_**\
+Font size: **_14_**\
+Editor line height: **_24_**\
 Icon pack: **_City Lights Icon Package_**
 
 ## Colors

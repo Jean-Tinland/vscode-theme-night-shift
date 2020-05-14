@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.18
+
+- Update readme screenshots & description
+
 ## 0.0.17
 
 - Add no borders (flat) theme variant

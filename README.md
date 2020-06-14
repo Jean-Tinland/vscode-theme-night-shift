@@ -11,6 +11,8 @@ There is also 4 variants included :
 - No italic & bold
 - Flat (no-borders)
 
+Created by [Jean Tinland](https://www.jeantinland.com)
+
 ## Preview
 
 ![.tsx preview](./assets/preview_1.png)

@@ -41,6 +41,11 @@
         "label": "Desaturated (w/o borders)",
         "uiTheme": "vs-dark",
         "path": "./themes/05_no-borders-color-theme.json"
+      },
+      {
+        "label": "Desaturated Light",
+        "uiTheme": "vs",
+        "path": "./themes/06_light-color-theme.json"
       }
     ]
   },

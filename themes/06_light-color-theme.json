@@ -1,0 +1,240 @@
+{
+  "type": "light",
+  "colors": {
+    "focusBorder": "#fafbfc",
+    "inputOption.activeBorder": "#f0bf65",
+    "editor.background": "#ffffff",
+    "editor.foreground": "#1E2737",
+    "editor.lineHighlightBackground": "#e7e7e725",
+    "editor.lineHighlightBorder": "#e7e7e725",
+    "editor.selectionBackground": "#d4d6e74d",
+    "editor.selectionHighlightBackground": "#b5b6c54d",
+    "editorIndentGuide.background": "#eeeeee",
+    "editorLineNumber.foreground": "#cccccc",
+    "editorBracketMatch.background": "#f1f8ff",
+    "editorBracketMatch.border": "#c8e1ff",
+    "titleBar.activeBackground": "#fafbfc",
+    "titleBar.border": "#e1e4e8",
+    "statusBar.foreground": "#fafbfc",
+    "statusBar.noFolderForeground": "#1E2737",
+    "statusBar.background": "#1E2737",
+    "statusBar.noFolderBackground": "#fafbfc",
+    "statusBar.debuggingBackground": "#fafbfc",
+    "statusBar.debuggingForeground": "#1E2737",
+    "activityBar.background": "#1E2737",
+    "activityBar.activeBorder": "#1E2737",
+    "activityBar.inactiveForeground": "#fafbfc",
+    "activityBar.foreground": "#f0bf65",
+    "activityBarBadge.background": "#54a3ff",
+    "sideBar.background": "#fafbfc",
+    "sideBar.foreground": "#586069",
+    "sideBar.border": "#e1e4e8",
+    "sideBarTitle.foreground": "#1E2737",
+    "sideBarSectionHeader.background": "#F1F2F3",
+    "sideBarSectionHeader.foreground": "#1E2737",
+    "editorGroupHeader.tabsBackground": "#fafbfc",
+    "editorGroupHeader.tabsBorder": "#e1e4e8",
+    "tab.activeBackground": "#ffffff",
+    "tab.activeBorder": "#f0bf65",
+    "tab.inactiveBackground": "#fafbfc",
+    "tab.border": "#e1e4e8",
+    "tab.inactiveForeground": "#586069",
+    "scrollbar.shadow": "#00000000"
+  },
+  "tokenColors": [
+    {
+      "name": "Comments",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#98A8C5",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Constants",
+      "scope": "constant",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Escape characters",
+      "scope": "constant.character.escape",
+      "settings": {
+        "foreground": "#6DB3CEc4"
+      }
+    },
+    {
+      "name": "Function names",
+      "scope": "entity.name.function",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Tags",
+      "scope": "entity.name.tag",
+      "settings": {
+        "foreground": "#7EDDDE",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Static types",
+      "scope": ["entity.name.type", "storage.type.cs"],
+      "settings": {
+        "foreground": "#8FC8BB"
+      }
+    },
+    {
+      "name": "Tag attributes",
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Pseudo CSS",
+      "scope": [
+        "entity.other.attribute-name.pseudo-element",
+        "entity.other.attribute-name.pseudo-class"
+      ],
+      "settings": {
+        "foreground": "#f0bf65"
+      }
+    },
+    {
+      "name": "Variable names",
+      "scope": ["entity.name.variable", "variable"],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Operators",
+      "scope": "keyword.operator",
+      "settings": {
+        "foreground": "#1A1C23",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Special operators",
+      "scope": [
+        "keyword.operator.new",
+        "keyword.operator.expression",
+        "keyword.operator.logical",
+        "keyword.operator.delete"
+      ],
+      "settings": {
+        "foreground": "#1A1C23",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markup quotes",
+      "scope": "markup.quote",
+      "settings": {
+        "foreground": "#6DB3CEc4",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Markup bold",
+      "scope": "markup.bold",
+      "settings": {
+        "foreground": "#f0bf65",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markup italics",
+      "scope": "markup.italic",
+      "settings": {
+        "foreground": "#7EDDDE",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": ["string.quoted", "string.template"],
+      "settings": {
+        "foreground": "#39465E"
+      }
+    },
+    {
+      "name": "Provided (support) values",
+      "scope": "support",
+      "settings": {
+        "foreground": "#8FC8BB"
+      }
+    },
+    {
+      "name": "Provided functions",
+      "scope": "support.function",
+      "settings": {
+        "foreground": "#8FC8BB",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Provieded variables",
+      "scope": "support.variable",
+      "settings": {
+        "foreground": "#8FC8BB",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Object/JSON property names",
+      "scope": ["support.type.property-name", "meta.object-literal.key"],
+      "settings": {
+        "foreground": "#f0bf65"
+      }
+    },
+    {
+      "name": "Language variables",
+      "scope": ["variable.language"],
+      "settings": {
+        "foreground": "#f0bf65",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Parameters",
+      "scope": "variable.parameter",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Tag brackets",
+      "scope": "punctuation.definition.tag",
+      "settings": {
+        "foreground": "#39465E",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Key/value separators",
+      "scope": "punctuation.separator",
+      "settings": {
+        "foreground": "#39465E"
+      }
+    },
+    {
+      "name": "Template expressions",
+      "scope": "punctuation.definition.template-expression",
+      "settings": {
+        "foreground": "#f5f5f5c4"
+      }
+    },
+    {
+      "name": "Embedded section punctuation",
+      "scope": "punctuation.section.embedded",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}

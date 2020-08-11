@@ -39,7 +39,6 @@
     "list.warningForeground": "#ffffff",
     "list.invalidItemForeground": "#ffffff",
     "activityBar.background": "#141B27",
-    "activityBar.dropBackground": "#6C6F9380",
     "activityBar.foreground": "#FFD484",
     "activityBar.activeBorder": "#FFFFFF00",
     "activityBar.inactiveForeground": "#D5D8DAB3",
@@ -231,7 +230,10 @@
     },
     {
       "name": "Pseudo CSS",
-      "scope": ["entity.other.attribute-name.pseudo-element", "entity.other.attribute-name.pseudo-class"],
+      "scope": [
+        "entity.other.attribute-name.pseudo-element",
+        "entity.other.attribute-name.pseudo-class"
+      ],
       "settings": {
         "foreground": "#AD82CBc4"
       }

@@ -39,7 +39,6 @@
     "list.warningForeground": "#ffffff",
     "list.invalidItemForeground": "#ffffff",
     "activityBar.background": "#1B222D",
-    "activityBar.dropBackground": "#6C6F9380",
     "activityBar.foreground": "#FFD484",
     "activityBar.activeBorder": "#FFD484",
     "activityBar.inactiveForeground": "#D5D8DAB3",

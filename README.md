@@ -20,10 +20,8 @@ Created by [Jean Tinland](https://www.jeantinland.com)
 ![.tsx preview](./assets/preview_3.png)
 Flat (no-borders) variant
 
-Font: **_JetBrains Mono_**\
-Font size: **_14_**\
-Editor line height: **_24_**\
-Icon pack: **_City Lights Icon Package_**
+![.tsx preview](./assets/preview_4.png)
+Light variant
 
 ## Colors
 

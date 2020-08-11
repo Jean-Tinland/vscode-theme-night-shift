@@ -39,7 +39,24 @@
     "tab.inactiveBackground": "#fafbfc",
     "tab.border": "#e1e4e8",
     "tab.inactiveForeground": "#586069",
-    "scrollbar.shadow": "#00000000"
+    "scrollbar.shadow": "#00000000",
+    "terminal.ansiBlue": "#6DB3CE",
+    "terminal.ansiBrightBlue": "#6DB3CE",
+    "terminal.ansiBrightCyan": "#7EDDDE",
+    "terminal.ansiBrightGreen": "#8FC8BB",
+    "terminal.ansiBrightMagenta": "#AD82CB",
+    "terminal.ansiBrightRed": "#E78482",
+    "terminal.ansiBrightYellow": "#f0bf65",
+    "terminal.ansiCyan": "#7EDDDE",
+    "terminal.ansiGreen": "#8FC8BB",
+    "terminal.ansiMagenta": "#AD82CB",
+    "terminal.ansiRed": "#E78482",
+    "terminal.ansiYellow": "#f0bf65",
+    "gitDecoration.addedResourceForeground": "#8FC8BB",
+    "gitDecoration.modifiedResourceForeground": "#f0bf65",
+    "gitDecoration.deletedResourceForeground": "#E78482",
+    "gitDecoration.untrackedResourceForeground": "#AD82CB",
+    "gitDecoration.ignoredResourceForeground": "#14141441"
   },
   "tokenColors": [
     {
@@ -226,7 +243,7 @@
       "name": "Template expressions",
       "scope": "punctuation.definition.template-expression",
       "settings": {
-        "foreground": "#f5f5f5c4"
+        "foreground": "#6C6F93"
       }
     },
     {

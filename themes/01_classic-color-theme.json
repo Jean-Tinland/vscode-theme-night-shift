@@ -214,6 +214,14 @@
       }
     },
     {
+      "name": "Class selector",
+      "scope": "entity.other.attribute-name.class.css",
+      "settings": {
+        "foreground": "#8FC8BB",
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "Inherited classes",
       "scope": "entity.other.inherited-class",
       "settings": {

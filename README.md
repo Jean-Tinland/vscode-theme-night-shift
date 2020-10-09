@@ -10,6 +10,7 @@ There is also 4 variants included :
 - No italic
 - No italic & bold
 - Flat (no-borders)
+- Light color scheme
 
 Created by [Jean Tinland](https://www.jeantinland.com)
 

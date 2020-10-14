@@ -4,24 +4,35 @@
 
 This theme's main goal is to provide a dark, readable & clean experience into your favorite code editor.
 
-There is also 4 variants included :
+There is also 7 variants included :
 
 - No bold
 - No italic
 - No italic & bold
 - Flat (no-borders)
+- Lite dark
+- Lite dark (no-borders)
 - Light color scheme
 
-Created by [Jean Tinland](https://www.jeantinland.com)
+Created by [Jean Tinland](https://www.jeantinland.com).
+
+You'll find an iTerm2 port of this theme [here](https://github.com/Jean-Tinland/iTerm2-theme-desaturated).
 
 ## Preview
 
 ![.tsx preview](./assets/preview_1.png)
+Base theme
+
 ![.tsx preview](./assets/preview_2.png)
-![.tsx preview](./assets/preview_3.png)
 Flat (no-borders) variant
 
+![.tsx preview](./assets/preview_3.png)
+Lite variant
+
 ![.tsx preview](./assets/preview_4.png)
+Lite (no-borders) variant
+
+![.tsx preview](./assets/preview_5.png)
 Light variant
 
 ## Colors

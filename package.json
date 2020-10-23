@@ -1,9 +1,9 @@
 {
   "name": "desaturated",
-  "displayName": "Desaturated Theme",
+  "displayName": "Night Shift (Desaturated) Theme",
   "description": "A clean desaturated vscode theme.",
   "icon": "assets/logo.png",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/Jean-Tinland/vscode-theme-desaturated.git"
@@ -18,42 +18,42 @@
   "contributes": {
     "themes": [
       {
-        "label": "Desaturated",
+        "label": "Night Shift (desaturated)",
         "uiTheme": "vs-dark",
         "path": "./themes/01_classic-color-theme.json"
       },
       {
-        "label": "Desaturated (w/o italic)",
+        "label": "Night Shift (w/o italic)",
         "uiTheme": "vs-dark",
         "path": "./themes/02_no-italic-color-theme.json"
       },
       {
-        "label": "Desaturated (w/o bold)",
+        "label": "Night Shift (w/o bold)",
         "uiTheme": "vs-dark",
         "path": "./themes/03_no-bold-color-theme.json"
       },
       {
-        "label": "Desaturated (w/o italic & bold)",
+        "label": "Night Shift (w/o italic & bold)",
         "uiTheme": "vs-dark",
         "path": "./themes/04_no-italic-bold-color-theme.json"
       },
       {
-        "label": "Desaturated (w/o borders)",
+        "label": "Night Shift (w/o borders)",
         "uiTheme": "vs-dark",
         "path": "./themes/05_no-borders-color-theme.json"
       },
       {
-        "label": "Desaturated Light",
+        "label": "Night Shift Light",
         "uiTheme": "vs",
         "path": "./themes/06_light-color-theme.json"
       },
       {
-        "label": "Desaturated Lite",
+        "label": "Night Shift Lite",
         "uiTheme": "vs-dark",
         "path": "./themes/07_lite-color-theme.json"
       },
       {
-        "label": "Desaturated Lite (w/o borders)",
+        "label": "Night Shift Lite (w/o borders)",
         "uiTheme": "vs-dark",
         "path": "./themes/08_lite-no-borders-color-theme.json"
       }

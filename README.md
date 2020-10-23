@@ -1,4 +1,4 @@
-# Desaturated Theme
+# Night Shift (Desaturated) Theme
 
 ## Introduction
 

@@ -1,5 +1,33 @@
 # Change Log
 
+## 2.0.0
+
+- Rename theme: Desaturated theme > Night Shift theme
+- Update theme logo
+
+## 1.1.0
+
+- Add 2 lite theme variants
+- Minor global updates
+
+## 1.0.0
+
+- Fix missing variant in readme file
+- Update css selector classname color
+
+## 0.0.21
+
+- Global properties cleanup
+- Readme file update
+
+## 0.0.20
+
+- Add light theme variant
+
+## 0.0.19
+
+- Minor readme file update
+
 ## 0.0.18
 
 - Update readme screenshots & description

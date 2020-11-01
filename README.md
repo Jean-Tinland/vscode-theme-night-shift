@@ -20,20 +20,20 @@ You'll find an iTerm2 port of this theme [here](https://github.com/Jean-Tinland/
 
 ## Preview
 
+Base theme:
 ![.tsx preview](./assets/preview_1.png)
-Base theme
 
+Flat (no-borders) variant:
 ![.tsx preview](./assets/preview_2.png)
-Flat (no-borders) variant
 
+Lite variant:
 ![.tsx preview](./assets/preview_3.png)
-Lite variant
 
+Lite (no-borders) variant:
 ![.tsx preview](./assets/preview_4.png)
-Lite (no-borders) variant
 
+Light variant:
 ![.tsx preview](./assets/preview_5.png)
-Light variant
 
 ## Colors
 

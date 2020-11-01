@@ -1,5 +1,12 @@
 # Change Log
 
+## 3.0.0
+
+- Massive interface & syntax highlight improvements/changes
+- Revamp all 8 themes
+- Readme file update
+- Add up to date screenshots
+
 ## 2.0.0
 
 - Rename theme: Desaturated theme > Night Shift theme

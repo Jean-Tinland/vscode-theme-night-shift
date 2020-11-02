@@ -1,5 +1,9 @@
 # Change Log
 
+## 3.0.1
+
+- Fix remaining yellowish tints in lite color theme
+
 ## 3.0.0
 
 - Massive interface & syntax highlight improvements/changes

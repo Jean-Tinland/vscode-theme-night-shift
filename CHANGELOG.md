@@ -1,5 +1,9 @@
 # Change Log
 
+## 3.0.2
+
+- Improve current file highlight visiblity in tree view
+
 ## 3.0.1
 
 - Fix remaining yellowish tints in lite color theme

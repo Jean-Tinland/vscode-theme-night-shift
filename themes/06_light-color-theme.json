@@ -29,6 +29,7 @@
     "gitDecoration.modifiedResourceForeground": "#f0bf65",
     "gitDecoration.untrackedResourceForeground": "#AD82CB",
     "inputOption.activeBorder": "#f0bf65",
+    "list.activeSelectionBackground": "#f0bf65",
     "scrollbar.shadow": "#00000000",
     "sideBar.background": "#fafbfc",
     "sideBar.border": "#e1e4e8",

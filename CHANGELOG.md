@@ -1,5 +1,17 @@
 # Change Log
 
+## 3.0.4
+
+- All hex colors to lowercases in all 8 themes
+- Update integrated terminal split view border color in bordered themes
+- Update editor split view border color
+- Increase line number visibility in no border & no border lite themes
+- Activate "semanticHighlighting" in all 8 themes
+
+## 3.0.3
+
+- Fix editor dropdown background color in bordered themes
+
 ## 3.0.2
 
 - Improve current file highlight visiblity in tree view

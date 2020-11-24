@@ -3,7 +3,7 @@
   "displayName": "Night Shift (Desaturated) Theme",
   "description": "A clean desaturated vscode theme.",
   "icon": "assets/logo.png",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "repository": {
     "type": "git",
     "url": "https://github.com/Jean-Tinland/vscode-theme-desaturated.git"

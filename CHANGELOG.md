@@ -1,5 +1,13 @@
 # Change Log
 
+## 3.0.6
+
+- Increase color readability in light theme
+
+## 3.0.5
+
+- Decrease sidebar foreground text opacity in all dark themes
+
 ## 3.0.4
 
 - All hex colors to lowercases in all 8 themes

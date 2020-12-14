@@ -4,7 +4,7 @@
   "colors": {
     "activityBar.activeBorder": "#1e2737",
     "activityBar.background": "#1e2737",
-    "activityBar.foreground": "#f0bf65",
+    "activityBar.foreground": "#ffBe45",
     "activityBar.inactiveForeground": "#fafbfc",
     "activityBarBadge.background": "#54a3ff",
     "button.background": "#ffd484",
@@ -26,10 +26,10 @@
     "gitDecoration.addedResourceForeground": "#8fc8bb",
     "gitDecoration.deletedResourceForeground": "#e78482",
     "gitDecoration.ignoredResourceForeground": "#14141441",
-    "gitDecoration.modifiedResourceForeground": "#f0bf65",
+    "gitDecoration.modifiedResourceForeground": "#ffBe45",
     "gitDecoration.untrackedResourceForeground": "#ad82cb",
-    "inputOption.activeBorder": "#f0bf65",
-    "list.activeSelectionBackground": "#f0bf65",
+    "inputOption.activeBorder": "#ffBe45",
+    "list.activeSelectionBackground": "#ffBe45",
     "scrollbar.shadow": "#00000000",
     "sideBar.background": "#fafbfc",
     "sideBar.border": "#e1e4e8",
@@ -44,7 +44,7 @@
     "statusBar.noFolderBackground": "#fafbfc",
     "statusBar.noFolderForeground": "#1e2737",
     "tab.activeBackground": "#ffffff",
-    "tab.activeBorder": "#f0bf65",
+    "tab.activeBorder": "#ffBe45",
     "tab.border": "#e1e4e8",
     "tab.inactiveBackground": "#fafbfc",
     "tab.inactiveForeground": "#586069",
@@ -54,12 +54,12 @@
     "terminal.ansiBrightGreen": "#8fc8bb",
     "terminal.ansiBrightMagenta": "#ad82cb",
     "terminal.ansiBrightRed": "#e78482",
-    "terminal.ansiBrightYellow": "#f0bf65",
+    "terminal.ansiBrightYellow": "#ffBe45",
     "terminal.ansiCyan": "#7eddde",
     "terminal.ansiGreen": "#8fc8bb",
     "terminal.ansiMagenta": "#ad82cb",
     "terminal.ansiRed": "#e78482",
-    "terminal.ansiYellow": "#f0bf65",
+    "terminal.ansiYellow": "#ffBe45",
     "titleBar.activeBackground": "#fafbfc",
     "titleBar.border": "#e1e4e8"
   },
@@ -123,7 +123,7 @@
         "entity.other.attribute-name.pseudo-class"
       ],
       "settings": {
-        "foreground": "#f0bf65"
+        "foreground": "#ffBe45"
       }
     },
     {
@@ -167,7 +167,7 @@
       "scope": "markup.bold",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#f0bf65"
+        "foreground": "#ffBe45"
       }
     },
     {
@@ -212,15 +212,16 @@
       "name": "Object/JSON property names",
       "scope": ["support.type.property-name", "meta.object-literal.key"],
       "settings": {
-        "foreground": "#f0bf65"
+        "fontStyle": "bold",
+        "foreground": "#ffBe45"
       }
     },
     {
       "name": "Language variables",
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#f0bf65"
+        "fontStyle": "bold italic",
+        "foreground": "#ffBe45"
       }
     },
     {

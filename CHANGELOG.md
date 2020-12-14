@@ -1,5 +1,9 @@
 # Change Log
 
+## 3.0.7
+
+- Set CSS pseudo element color to red in light theme
+
 ## 3.0.6
 
 - Increase color readability in light theme

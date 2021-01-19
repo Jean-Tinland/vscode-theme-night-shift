@@ -21,19 +21,19 @@ You'll find an iTerm2 port of this theme [here](https://github.com/Jean-Tinland/
 ## Preview
 
 Base theme:
-![.tsx preview](./assets/preview_1.png)
+![.tsx preview](./assets/preview_1.jpg)
 
 Flat (no-borders) variant:
-![.tsx preview](./assets/preview_2.png)
+![.tsx preview](./assets/preview_2.jpg)
 
 Lite variant:
-![.tsx preview](./assets/preview_3.png)
+![.tsx preview](./assets/preview_3.jpg)
 
 Lite (no-borders) variant:
-![.tsx preview](./assets/preview_4.png)
+![.tsx preview](./assets/preview_4.jpg)
 
 Light variant:
-![.tsx preview](./assets/preview_5.png)
+![.tsx preview](./assets/preview_5.jpg)
 
 ## Colors
 

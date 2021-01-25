@@ -14,7 +14,9 @@ There is also 7 variants included :
 - Lite dark (no-borders)
 - Light color scheme
 
-Created by [Jean Tinland](https://www.jeantinland.com).
+Visit [Night Shift website](https://jean-tinland.github.io/night-shift-demo/) for more info.
+
+Created by [Jean Tinland](https://www.jeantinland.com) (just another seo backlinks).
 
 You'll find an iTerm2 port of this theme [here](https://github.com/Jean-Tinland/iTerm2-theme-desaturated).
 

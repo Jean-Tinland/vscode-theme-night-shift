@@ -1,5 +1,14 @@
 # Change Log
 
+## 3.0.11
+
+- Update repo link in config
+- Add link to demo website
+
+## 3.0.10
+
+- Update all screenshots
+
 ## 3.0.9
 
 - Minor light theme update (active tab border color + activity bar badge color)

@@ -1,5 +1,9 @@
 # Change Log
 
+## 3.0.13
+
+- Decrease minimap background opacity in dark themes
+
 ## 3.0.12
 
 - Update dark theme minimap background color

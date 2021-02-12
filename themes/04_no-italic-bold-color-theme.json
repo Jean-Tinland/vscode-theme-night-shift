@@ -98,6 +98,7 @@
     "list.inactiveSelectionForeground": "#98a8c5",
     "list.invalidItemForeground": "#fff9eede",
     "list.warningForeground": "#fff9eede",
+    "minimap.background": "#1e2737",
     "panel.border": "#1e2737",
     "panelTitle.activeBorder": "#ffd484",
     "peekView.border": "#1a1c23",

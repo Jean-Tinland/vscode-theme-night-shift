@@ -1,5 +1,9 @@
 # Change Log
 
+## 3.0.12
+
+- Update dark theme minimap background color
+
 ## 3.0.11
 
 - Update repo link in config

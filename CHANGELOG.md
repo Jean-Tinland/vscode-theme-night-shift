@@ -1,5 +1,9 @@
 # Change Log
 
+## 3.0.15
+
+- Fix light theme selection background color
+
 ## 3.0.14
 
 - Update light theme selection background color

@@ -20,7 +20,7 @@
     "editor.lineHighlightBackground": "#1e273705",
     "editor.lineHighlightBorder": "#1e273705",
     "editor.rangeHighlightBackground": "#1e273780",
-    "editor.selectionBackground": "#dbdbdb10",
+    "editor.selectionBackground": "#00000021",
     "editor.selectionHighlightBackground": "#98a8c510",
     "editor.selectionHighlightBorder": "#1e273740",
     "editor.wordHighlightBackground": "#ffbe4538",

@@ -1,5 +1,9 @@
 # Change Log
 
+## 3.0.14
+
+- Update light theme selection background color
+
 ## 3.0.13
 
 - Decrease minimap background opacity in dark themes

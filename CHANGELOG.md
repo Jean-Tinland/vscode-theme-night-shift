@@ -1,5 +1,9 @@
 # Change Log
 
+## 3.0.16
+
+- Remove bold in light theme
+
 ## 3.0.15
 
 - Fix light theme selection background color

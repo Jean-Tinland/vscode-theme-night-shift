@@ -83,13 +83,6 @@
       }
     },
     {
-      "name": "Constants",
-      "scope": "constant",
-      "settings": {
-        "fontStyle": "bold"
-      }
-    },
-    {
       "name": "Escape characters",
       "scope": "constant.character.escape",
       "settings": {
@@ -107,7 +100,6 @@
       "name": "Function names",
       "scope": "entity.name.function",
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#1e2737"
       }
     },
@@ -115,7 +107,6 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#7eddde"
       }
     },
@@ -134,39 +125,10 @@
       }
     },
     {
-      "name": "CSS class selector",
-      "scope": "entity.other.attribute-name.class.css",
-      "settings": {
-        "fontStyle": "bold"
-      }
-    },
-    {
       "name": "CSS transition name",
       "scope": "support.type.property-name.css",
       "settings": {
-        "fontStyle": "",
         "foreground": "#ffbe45"
-      }
-    },
-    {
-      "name": "CSS ID selectors",
-      "scope": "entity.other.attribute-name.id",
-      "settings": {
-        "fontStyle": "bold"
-      }
-    },
-    {
-      "name": "CSS colors",
-      "scope": "constant.other.color.rgb-value.hex.css",
-      "settings": {
-        "fontStyle": "bold"
-      }
-    },
-    {
-      "name": "SCSS include & mixins params",
-      "scope": ["meta.at-rule.mixin", "meta.at-rule.include"],
-      "settings": {
-        "fontStyle": "bold"
       }
     },
     {
@@ -216,7 +178,6 @@
       "name": "Variable names",
       "scope": ["entity.name.variable", "variable"],
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#1e2737"
       }
     },
@@ -224,7 +185,6 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#6db3ce"
       }
     },
@@ -237,7 +197,6 @@
         "keyword.operator.delete"
       ],
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#6db3ce"
       }
     },
@@ -325,7 +284,6 @@
       "name": "Provided functions",
       "scope": "support.function",
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#8fc8bb"
       }
     },
@@ -333,7 +291,6 @@
       "name": "Provieded variables",
       "scope": "support.variable",
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#8fc8bb"
       }
     },
@@ -377,7 +334,6 @@
       "name": "Tag brackets",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#98a8c5"
       }
     },

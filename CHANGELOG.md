@@ -1,5 +1,11 @@
 # Change Log
 
+## 4.0.0
+
+- Merge all variants in one
+- Update syntax colors in order to better separate javascript parts from jsx parts
+- Externalize light variant in another theme (Day Shift)
+
 ## 3.0.16
 
 - Remove bold in light theme

@@ -11,7 +11,7 @@ A Google Chrome port is available [here](https://github.com/Jean-Tinland/chrome-
 
 ## Preview
 
-![.tsx preview](./assets/preview.jpg)
+![.tsx preview](./assets/preview.png)
 
 ## Colors
 

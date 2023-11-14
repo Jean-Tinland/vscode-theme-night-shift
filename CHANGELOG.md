@@ -1,5 +1,9 @@
 # Change Log
 
+## 4.0.1
+
+- Update preview in readme
+
 ## 4.0.0
 
 - Merge all variants in one

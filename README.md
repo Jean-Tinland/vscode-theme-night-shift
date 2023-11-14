@@ -1,10 +1,10 @@
-# Night Shift (Desaturated) Theme
+# Night Shift Theme
 
 ## Introduction
 
 This theme's main goal is to provide a dark, readable & clean experience into your favorite code editor.
 
-Visit [Night Shift website](https://jean-tinland.github.io/night-shift-demo/) for more info.
+Visit [Night Shift website](https://jean-tinland.github.io/night-shift-demo/) for more info. You can find the light version of this theme [here](https://marketplace.visualstudio.com/items?itemName=jean.day-shift-theme).
 
 You'll find an iTerm2 port of this theme [here](https://github.com/Jean-Tinland/iTerm2-theme-desaturated).\
 A Google Chrome port is available [here](https://github.com/Jean-Tinland/chrome-theme-desaturated).

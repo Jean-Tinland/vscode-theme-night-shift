@@ -1,5 +1,10 @@
 # Change Log
 
+## 4.0.2
+
+- Update readme: cleanup & add link to Day Shift theme
+- Improve lists & tree views contrast and visibility
+
 ## 4.0.1
 
 - Update preview in readme

@@ -1,5 +1,11 @@
 # Change Log
 
+## 4.0.3
+
+- Update comment color to a more darker tone
+- Add customization section in readme
+- Update readme introduction
+
 ## 4.0.2
 
 - Update readme: cleanup & add link to Day Shift theme

@@ -4,6 +4,8 @@
 
 This theme's main goal is to provide a dark, readable & clean experience into your favorite code editor.
 
+In order to stay soft to the eyes, it uses a desaturated color palette and uses only bold characters for function names as they are what describes your code the better.
+
 Visit [Night Shift website](https://jean-tinland.github.io/night-shift-demo/) for more info. You can find the light version of this theme [here](https://marketplace.visualstudio.com/items?itemName=jean.day-shift-theme).
 
 You'll find an iTerm2 port of this theme [here](https://github.com/Jean-Tinland/iTerm2-theme-desaturated).\
@@ -35,6 +37,35 @@ Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.
 Or install this theme from the extension panel : search for "_desaturated theme_".
 
 You can find this theme in the Visual Studio Code Marketplace.
+
+## Customization
+
+If you want to get rid of all bold or italic text, you can add these lines to your `settings.json` file :
+
+```json
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      // Remove bold
+      {
+        "name": "Function names",
+        "scope": "entity.name.function",
+        "settings": {
+          "fontStyle": "",
+        }
+      },
+      // Remove italics
+      {
+        "name": "Comments",
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "",
+        }
+      }
+    ]
+  },
+```
+
+If you want to override anything else, you can see all the style definitions [here](https://github.com/Jean-Tinland/vscode-theme-night-shift/blob/master/themes/color-theme.json#L175C19-L175C19) in the github repo.
 
 ## Support
 

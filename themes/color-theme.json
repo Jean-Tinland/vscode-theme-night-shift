@@ -178,7 +178,7 @@
       "scope": "comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#98a8c5"
+        "foreground": "#74829b"
       }
     },
     {
@@ -349,7 +349,6 @@
       "name": "Markup quotes",
       "scope": "markup.quote",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#6db3ce"
       }
     },

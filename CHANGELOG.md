@@ -1,5 +1,10 @@
 # Change Log
 
+## 4.0.4
+
+- Fix default foreground color
+- Update color for git ignored resource foreground
+
 ## 4.0.3
 
 - Update comment color to a more darker tone

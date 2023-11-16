@@ -1,5 +1,9 @@
 # Change Log
 
+## 4.0.5
+
+- Rollback 4.0.4 changes
+
 ## 4.0.4
 
 - Fix default foreground color

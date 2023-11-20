@@ -455,7 +455,7 @@
     },
     {
       "name": "Language variables",
-      "scope": ["variable.language"],
+      "scope": "variable.language",
       "settings": {
         "foreground": "#ffd484"
       }

@@ -1,5 +1,10 @@
 # Change Log
 
+## 4.0.6
+
+- Misc cleanup in color-theme
+- Update readme colors table
+
 ## 4.0.5
 
 - Rollback 4.0.4 changes

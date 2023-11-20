@@ -433,7 +433,7 @@
       }
     },
     {
-      "name": "Provieded variables",
+      "name": "Provided variables",
       "scope": "support.variable",
       "settings": {
         "foreground": "#8fc8bb"

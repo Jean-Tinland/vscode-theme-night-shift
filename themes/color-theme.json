@@ -60,7 +60,7 @@
     "editorOverviewRuler.bracketMatchForeground": "#ffd484",
     "editorOverviewRuler.deletedForeground": "#e78482",
     "editorOverviewRuler.errorForeground": "#e78482",
-    "editorOverviewRuler.findMatchForeground": "#6c6f93",
+    "editorOverviewRuler.findMatchForeground": "#6c6f93ec",
     "editorOverviewRuler.modifiedForeground": "#21bfc280",
     "editorOverviewRuler.warningForeground": "#ffd484",
     "editorRuler.foreground": "#1e2737",

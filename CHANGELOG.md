@@ -1,5 +1,9 @@
 # Change Log
 
+## 4.1.1
+
+- Fix editorOverviewRuler.findMatchForeground not being transparent
+
 ## 4.1.0
 
 - Add Python support

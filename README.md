@@ -36,7 +36,9 @@ A Google Chrome port is available [here](https://github.com/Jean-Tinland/chrome-
 
 Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.
 
-`ext install jean.desaturated`
+```
+ext install jean.desaturated
+```
 
 Or install this theme from the extension panel : search for "_Night Shift Theme_".
 
@@ -73,6 +75,6 @@ If you want to override anything else, you can see all the style definitions [he
 
 ## Support
 
-As I work mainly with **Javascript**, **Typescript**, **HTML/CSS** & **PHP**, these are for now the only fully supported languages.
+**Javascript**, **Typescript**, **HTML/CSS**, **Python** & **PHP** are for now the only fully tested and supported languages. Other languages may be partially supported too.
 
 Do not hesitate to contact me if you have some suggestions of improvements or language addition requests.

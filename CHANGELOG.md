@@ -1,5 +1,10 @@
 # Change Log
 
+## 4.1.0
+
+- Add Python support
+- Update readme
+
 ## 4.0.7
 
 - Update website link in readme

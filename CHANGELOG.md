@@ -1,5 +1,10 @@
 # Change Log
 
+## 4.1.2
+
+- Improve editor widgets contrast
+- Fix editor ruler foreground color & contrast
+
 ## 4.1.1
 
 - Fix editorOverviewRuler.findMatchForeground not being transparent

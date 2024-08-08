@@ -1,5 +1,10 @@
 # Change Log
 
+## 4.1.3
+
+- Improve contrast in list/tree/widget views
+- Remove accent color (yellow) in file names as it was conflicting with git file status color system (yellow == modified, magenta == untracked, red == deleted, green == added)
+
 ## 4.1.2
 
 - Improve editor widgets contrast

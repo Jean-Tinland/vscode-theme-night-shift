@@ -1,5 +1,9 @@
 # Change Log
 
+## 4.1.4
+
+- Update dropdown background color for improved visibility
+
 ## 4.1.3
 
 - Improve contrast in list/tree/widget views

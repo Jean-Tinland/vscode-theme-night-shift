@@ -14,6 +14,8 @@ You'll find an iTerm2 port of this theme [here](https://github.com/Jean-Tinland/
 A Warp Terminal port is available [here](https://github.com/Jean-Tinland/warp-night-shift-theme).\
 A Google Chrome port is available [here](https://github.com/Jean-Tinland/chrome-theme-desaturated).
 
+**Notice: As I am working simultaneously on a lot of projects, things here may seem to move slowly but they are still in progress. I'm always monitoring my notifications and messages, so if you have any questions or want to chat about anything, feel free [to reach out](https://www.jeantinland.com/contact/)!**
+
 ## Preview
 
 ![.tsx preview](./assets/preview.png)
